@@ -29,12 +29,14 @@ Do usługi creatCredit - http://localhost:8080/creatCreditApi
 Lecz gdy będziemy chcieli wysyłać żadanie stworzenia kredytu proszę trzymać się tych zmiennych.
 
 Wszystkie zmienne muszą być uzupełnione w innym razie nie będzie możliwe wprowadzenia danych do baz.
+Zakładam że pesel składa się tylko z cyfr, musi mieć 11 oraz nie możę się powtórzyć w bazie.
+W prodcutValue wartość musi być wieksza lub równa 1. 
 
 {
 	"customerName": "Klaudia",
 	"customerLast": "Murańska",
-	"customerPesel": "97512563333",  ------->  zakładam że pesel składa się tylko z cyfr, musi mieć 11 oraz nie możę się powtórzyć w bazie.
+	"customerPesel": "97512563333",
 	"productName": "product99",
-	"productValue": 5000,   -------> wartość musi być wieksza lub równa 1. 
+	"productValue": 5000,
 	"creditName": "credit653"
 }
