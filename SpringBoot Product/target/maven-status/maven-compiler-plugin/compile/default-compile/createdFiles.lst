@@ -1,0 +1,5 @@
+pl\dunski\springbootproduct\controllers\ProductController.class
+pl\dunski\springbootproduct\models\ProductDB.class
+pl\dunski\springbootproduct\services\ProductService.class
+pl\dunski\springbootproduct\reposytories\ProductReposytory.class
+pl\dunski\springbootproduct\SpringbootproductApplication.class
