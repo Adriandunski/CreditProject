@@ -7,6 +7,8 @@ W folderach są już przygotowane pliki JAR, więc nie trzeba nawet pakować teg
 
 Przy pierwszej inicializacji czy uruchomieniu komendy, do bazy danych zostanie wprowadzony 5 przykładowych kredytów. 
 
+
+
 Poszczególne komponenty aplikacji uruchamiają sięna tych portach.
 
 SpringBoot Credit - 8080
