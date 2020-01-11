@@ -1,0 +1,5 @@
+pl\dunski\springbootcustomer\models\CustomerDB.class
+pl\dunski\springbootcustomer\controllers\CustomerController.class
+pl\dunski\springbootcustomer\services\CustomerService.class
+pl\dunski\springbootcustomer\SpringbootcustomerApplication.class
+pl\dunski\springbootcustomer\reposytories\CustomerReposytory.class
